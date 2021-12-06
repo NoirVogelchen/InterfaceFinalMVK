@@ -319,12 +319,12 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
   
   .time-right {
     float: right;
-    color: #aaa;
+    color: #363636;
   }
   
   .time-left {
     float: left;
-    color: #999;}
+    color: #363636;}
    
     textarea {
       display: block;
