@@ -109,8 +109,8 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
 .-row-padding,.-row-padding>.-half,.-row-padding>.-third,.-row-padding>.-twothird,.-row-padding>.-threequarter,.-row-padding>.-quarter,.-row-padding>.-col{padding:0 8px}
 .-container,.-panel{padding:0.01em 16px}.-panel{margin-top:16px;margin-bottom:16px}
 .-code,.-codespan{font-family:Consolas,"courier new";font-size:16px}
-.-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
-.-codespan{color:crimson;background-color:#f1f1f1;padding-left:4px;padding-right:4px;font-size:110%}
+.-code{width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #307032;word-wrap:break-word}
+.-codespan{color:rgb(128, 17, 39);background-color:#f1f1f1;padding-left:4px;padding-right:4px;font-size:110%}
 .-card,.-card-2{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
 .-card-4,.-hover-shadow:hover{box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)}
 .-spin{animation:-spin 2s infinite linear}@keyframes -spin{0%{transform:rotate(0deg)}100%{transform:rotate(359deg)}}
@@ -151,12 +151,12 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
 /* Colors */
 .-amber,.-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
 .-aqua,.-hover-aqua:hover{color:#000!important;background-color:#00ffff!important}
-.-blue,.-hover-blue:hover{color:#fff!important;background-color:#2196F3!important}
+.-blue,.-hover-blue:hover{color:#fff!important;background-color:#1d6cad!important}
 .-light-blue,.-hover-light-blue:hover{color:#000!important;background-color:#87CEEB!important}
 .-brown,.-hover-brown:hover{color:#fff!important;background-color:#795548!important}
 .-cyan,.-hover-cyan:hover{color:#000!important;background-color:#00bcd4!important}
 .-blue-grey,.-hover-blue-grey:hover,.-blue-gray,.-hover-blue-gray:hover{color:#fff!important;background-color:#607d8b!important}
-.-green,.-hover-green:hover{color:#fff!important;background-color:#4CAF50!important}
+.-green,.-hover-green:hover{color:#fff!important;background-color:#2c692e!important}
 .-light-green,.-hover-light-green:hover{color:#000!important;background-color:#8bc34a!important}
 .-indigo,.-hover-indigo:hover{color:#fff!important;background-color:#3f51b5!important}
 .-khaki,.-hover-khaki:hover{color:#000!important;background-color:#f0e68c!important}
@@ -166,9 +166,9 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
 .-pink,.-hover-pink:hover{color:#fff!important;background-color:#e91e63!important}
 .-purple,.-hover-purple:hover{color:#fff!important;background-color:#9c27b0!important}
 .-deep-purple,.-hover-deep-purple:hover{color:#fff!important;background-color:#673ab7!important}
-.-red,.-hover-red:hover{color:#fff!important;background-color:#f44336!important}
+.-red,.-hover-red:hover{color:#fff!important;background-color:#9c2a22!important}
 .-sand,.-hover-sand:hover{color:#000!important;background-color:#fdf5e6!important}
-.-teal,.-hover-teal:hover{color:#fff!important;background-color:#009688!important}
+.-teal,.-hover-teal:hover{color:#fff!important;background-color:#076d63!important}
 .-yellow,.-hover-yellow:hover{color:#000!important;background-color:#ffeb3b!important}
 .-white,.-hover-white:hover{color:#000!important;background-color:#fff!important}
 .-black,.-hover-black:hover{color:#fff!important;background-color:#000!important}
@@ -181,12 +181,12 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
 .-pale-blue,.-hover-pale-blue:hover{color:#000!important;background-color:#ddffff!important}
 .-text-amber,.-hover-text-amber:hover{color:#ffc107!important}
 .-text-aqua,.-hover-text-aqua:hover{color:#00ffff!important}
-.-text-blue,.-hover-text-blue:hover{color:#2196F3!important}
+.-text-blue,.-hover-text-blue:hover{color:#1d70b4!important}
 .-text-light-blue,.-hover-text-light-blue:hover{color:#87CEEB!important}
 .-text-brown,.-hover-text-brown:hover{color:#795548!important}
 .-text-cyan,.-hover-text-cyan:hover{color:#00bcd4!important}
 .-text-blue-grey,.-hover-text-blue-grey:hover,.-text-blue-gray,.-hover-text-blue-gray:hover{color:#607d8b!important}
-.-text-green,.-hover-text-green:hover{color:#4CAF50!important}
+.-text-green,.-hover-text-green:hover{color:#275829!important}
 .-text-light-green,.-hover-text-light-green:hover{color:#8bc34a!important}
 .-text-indigo,.-hover-text-indigo:hover{color:#3f51b5!important}
 .-text-khaki,.-hover-text-khaki:hover{color:#b4aa50!important}
@@ -196,9 +196,9 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
 .-text-pink,.-hover-text-pink:hover{color:#e91e63!important}
 .-text-purple,.-hover-text-purple:hover{color:#9c27b0!important}
 .-text-deep-purple,.-hover-text-deep-purple:hover{color:#673ab7!important}
-.-text-red,.-hover-text-red:hover{color:#f44336!important}
+.-text-red,.-hover-text-red:hover{color:#9c2b23!important}
 .-text-sand,.-hover-text-sand:hover{color:#fdf5e6!important}
-.-text-teal,.-hover-text-teal:hover{color:#009688!important}
+.-text-teal,.-hover-text-teal:hover{color:#05695f!important}
 .-text-yellow,.-hover-text-yellow:hover{color:#d2be0e!important}
 .-text-white,.-hover-text-white:hover{color:#fff!important}
 .-text-black,.-hover-text-black:hover{color:#000!important}
@@ -207,12 +207,12 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
 .-text-dark-grey,.-hover-text-dark-grey:hover,.-text-dark-gray,.-hover-text-dark-gray:hover{color:#3a3a3a!important}
 .-border-amber,.-hover-border-amber:hover{border-color:#ffc107!important}
 .-border-aqua,.-hover-border-aqua:hover{border-color:#00ffff!important}
-.-border-blue,.-hover-border-blue:hover{border-color:#2196F3!important}
+.-border-blue,.-hover-border-blue:hover{border-color:#1968a8!important}
 .-border-light-blue,.-hover-border-light-blue:hover{border-color:#87CEEB!important}
 .-border-brown,.-hover-border-brown:hover{border-color:#795548!important}
 .-border-cyan,.-hover-border-cyan:hover{border-color:#00bcd4!important}
 .-border-blue-grey,.-hover-border-blue-grey:hover,.-border-blue-gray,.-hover-border-blue-gray:hover{border-color:#607d8b!important}
-.-border-green,.-hover-border-green:hover{border-color:#4CAF50!important}
+.-border-green,.-hover-border-green:hover{border-color:#2b612d!important}
 .-border-light-green,.-hover-border-light-green:hover{border-color:#8bc34a!important}
 .-border-indigo,.-hover-border-indigo:hover{border-color:#3f51b5!important}
 .-border-khaki,.-hover-border-khaki:hover{border-color:#f0e68c!important}
@@ -222,9 +222,9 @@ hr{border:0;border-top:1px solid rgb(48, 48, 48);margin:20px 0}
 .-border-pink,.-hover-border-pink:hover{border-color:#e91e63!important}
 .-border-purple,.-hover-border-purple:hover{border-color:#9c27b0!important}
 .-border-deep-purple,.-hover-border-deep-purple:hover{border-color:#673ab7!important}
-.-border-red,.-hover-border-red:hover{border-color:#f44336!important}
+.-border-red,.-hover-border-red:hover{border-color:#b32f26!important}
 .-border-sand,.-hover-border-sand:hover{border-color:#fdf5e6!important}
-.-border-teal,.-hover-border-teal:hover{border-color:#009688!important}
+.-border-teal,.-hover-border-teal:hover{border-color:#086e64!important}
 .-border-yellow,.-hover-border-yellow:hover{border-color:#ffeb3b!important}
 .-border-white,.-hover-border-white:hover{border-color:#fff!important}
 .-border-black,.-hover-border-black:hover{border-color:#000!important}
